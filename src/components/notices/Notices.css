@@ -1,0 +1,32 @@
+.main {
+
+    width:99%;
+    height:650px; 
+    background:rgb(169, 233, 233);
+    }
+    .notices {
+        padding:2rem;
+        margin: 1rem;
+        text-align:left;
+        height:50px;
+        display:flex;
+    }
+    .notices input {
+     
+     justify-items: left;
+     padding: 10px;
+     font-size:16px;
+     border:2px solid #FFF;
+     width:165px;
+     margin: 5px;
+    }
+    .notices  button{
+      padding: 10px;
+      font-size:16px;
+      background-color: red;
+      color:white;
+      border:2px solid red;
+      margin: 5px;
+      height:50px;
+    }
+    

@@ -1,0 +1,54 @@
+.noticeItems{
+  clear:both;
+}
+
+
+.mainCard {
+  
+    display: inherit;
+    background:rgb(169, 233, 233);  
+    width:50%;
+    float:left;
+  }
+  .cards{
+    border : solid 1px black;
+    width:20rem;
+    height:2rem;
+    padding: 1%;
+    margin : 2%;
+    font-size: 16px;
+    color: white;
+    display: flex;
+    text-align: center;
+  }
+  
+  .cardsText{
+    text-align: center;
+    width:20rem;
+    padding-top:5px;
+  }
+  .noticeDetails   {
+    clear: both;
+    color: #333;
+    background-color: #FFDAB9;
+    padding: 15px;
+    width:200px;
+    height:100px;
+    margin: 5px;
+    border-radius: 5px;
+ 
+    text-align: center;
+  }
+  .main ul{
+    padding: 5px;
+  }
+   
+  .noticeDetails button {
+    float:right;
+    padding: 10px 15px  10px 15px;
+  }
+  .Section{
+  
+    width:50%;
+    float:right;
+  }
